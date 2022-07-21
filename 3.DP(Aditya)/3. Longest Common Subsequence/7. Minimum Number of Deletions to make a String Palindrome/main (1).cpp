@@ -46,7 +46,7 @@ int main()
    
    // minimum number of deletion will be length of string x - lps
    
-   cout<<"Minimum number of deletions to make palindomic sub-sequence: "<<m-dp[m][n]<<endl;            
+   cout<<"Minimum number of deletions to make the string palindrome: "<<m-dp[m][n]<<endl;            
    
   
     return 0;
