@@ -1,10 +1,8 @@
 
 #include <bits/stdc++.h>
-#include <iostream>
 
-using namespace std;
 
-void solve(string op,int n,char prev,vector<string> &res)
+using namespace std;void solve(string op,int n,char prev,vector<string> &res)
 {
     if(n==0)
     {
